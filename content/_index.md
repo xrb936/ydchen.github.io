@@ -16,7 +16,7 @@ sections:
         text_color_light: true
         image:
           # Add your image background to `assets/media/`.
-          filename: background.png
+          filename: background.jpg
           filters:
             brightness: 0.5
           size: cover
