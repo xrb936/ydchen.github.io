@@ -11,7 +11,7 @@ role: PhD Candidate in Municipal Engineering
 # Organizations/Affiliations
 organizations:
 - name: China University of Mining and Technology
-  url: "https://www.cumt.edu.cn/"
+  url: "https://global.cumt.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on the renewal of mining cities and land use planning, particularly within the framework of compact city concepts.
