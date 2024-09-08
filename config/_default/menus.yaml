@@ -4,13 +4,13 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Home 首页
     url: '/'
     weight: 10
-  - name: Publications
+  - name: Publications 发表文章
     url: '/publication'
     weight: 50
-  - name: Contact
+  - name: Contact 联系方式
     url: '/contact'
     weight: 60
 
